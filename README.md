@@ -61,6 +61,8 @@ This project is built with:
 
 Made by -
 Krish Parekh(Leader)  - https://github.com/krish17kp
+<br>
 Chaitanya Thakur     - https://github.com/chaitanyathakur14
+<br>
 Parth Mangrulkar    - https://github.com/Parth-mangrulkar?tab=overview&from=2025-09-01&to=2025-09-06
 Ajinkya Hatle      - https://github.com/ajinkyahatle-cmyk
