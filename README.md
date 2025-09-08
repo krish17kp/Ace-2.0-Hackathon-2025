@@ -58,3 +58,9 @@ This project is built with:
 - PyTorch
 - ScikitlearnNLP: NLTK
 - Computer Vision: OpenCV
+
+Made by -
+Krish Parekh(Leader)  - https://github.com/krish17kp
+Chaitanya Thakur     - https://github.com/chaitanyathakur14
+Parth Mangrulkar    - https://github.com/Parth-mangrulkar?tab=overview&from=2025-09-01&to=2025-09-06
+Ajinkya Hatle      - https://github.com/ajinkyahatle-cmyk
