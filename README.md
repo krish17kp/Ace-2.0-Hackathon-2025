@@ -60,6 +60,7 @@ This project is built with:
 - Computer Vision: OpenCV
 
 Made by -
+<br>
 Krish Parekh(Leader)  - https://github.com/krish17kp
 <br>
 Chaitanya Thakur     - https://github.com/chaitanyathakur14
