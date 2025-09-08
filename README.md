@@ -65,4 +65,5 @@ Krish Parekh(Leader)  - https://github.com/krish17kp
 Chaitanya Thakur     - https://github.com/chaitanyathakur14
 <br>
 Parth Mangrulkar    - https://github.com/Parth-mangrulkar?tab=overview&from=2025-09-01&to=2025-09-06
+<br>
 Ajinkya Hatle      - https://github.com/ajinkyahatle-cmyk
