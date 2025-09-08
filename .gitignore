@@ -1,0 +1,27 @@
+# Node
+node_modules/
+pnpm-lock.yaml
+
+# Build artifacts
+dist/
+build/
+.out/
+.next/
+
+# Env/secrets
+.env
+.env.*
+.env.local
+
+# Python (if you ever add it)
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyd
+*.dll
+*.lib
+
+# OS/IDE
+.DS_Store
+.vscode/
